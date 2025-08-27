@@ -18,10 +18,10 @@ Players take turns rolling a die and try to be the first to reach 100 points.
 
 ## How to Run
 1. Make sure you have **Python 3** installed.
-2. Save the code into a file (e.g., `dice_game.py`).
+2. Save the code into a file (e.g., `pig.py`).
 3. Run the program:
    ```bash
-   python dice_game.py
+   python pig.py
 ---   
 Enter number of players(1-4): 2
 Player number 1 turn has just started!
